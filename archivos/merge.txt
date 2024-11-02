@@ -1,3 +1,8 @@
 Santiago Abelardo Salcedo Rodriguez
 18 años
 mejorar y ampliar mis capacidades en la programacion, aprender y dsifrutar de la POO :d
+La carpeta de archivos tiene un archivo llamado respuesta debido a que al intentar hacer commit sin ningun archivo no dejo, al crear el archivo permitio github hacer el commit
+
+Es Importante tener cuidado con la modificacion de un mismo archivos por varias personas desde diferentes ubicaciones debido a que puede generar conflictos en los repositorios
+se pueden perder lineas de codigo creadas por un companero por la mala comunicacion y generar conflictos en las relaciones personales entre las personas, por esos motivos es mejor
+tener claro que personas van a hacer que acciones para no tener malos entendidos
